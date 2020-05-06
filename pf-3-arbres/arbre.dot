@@ -1,0 +1,120 @@
+digraph "ABR" {
+node [shape=circle]
+w[color=black, fontcolor=black]
+z[color=red, fontcolor=red]
+x[color=black, fontcolor=black]
+y[color=red, fontcolor=red]
+z[color=black, fontcolor=black]
+r[color=red, fontcolor=red]
+v[color=red, fontcolor=red]
+w[color=black, fontcolor=black]
+z[color=red, fontcolor=red]
+x[color=black, fontcolor=black]
+y[color=red, fontcolor=red]
+z[color=black, fontcolor=black]
+i[color=red, fontcolor=red]
+v[color=red, fontcolor=red]
+w[color=black, fontcolor=black]
+z[color=red, fontcolor=red]
+x[color=black, fontcolor=black]
+y[color=red, fontcolor=red]
+z[color=black, fontcolor=black]
+r[color=red, fontcolor=red]
+s[color=black, fontcolor=black]
+v[color=red, fontcolor=red]
+w[color=black, fontcolor=black]
+z[color=red, fontcolor=red]
+x[color=black, fontcolor=black]
+y[color=red, fontcolor=red]
+z[color=black, fontcolor=black]
+f[color=red, fontcolor=red]
+v[color=red, fontcolor=red]
+w[color=black, fontcolor=black]
+z[color=red, fontcolor=red]
+x[color=black, fontcolor=black]
+y[color=red, fontcolor=red]
+z[color=black, fontcolor=black]
+r[color=red, fontcolor=red]
+s[color=black, fontcolor=black]
+v[color=red, fontcolor=red]
+w[color=black, fontcolor=black]
+z[color=red, fontcolor=red]
+x[color=black, fontcolor=black]
+y[color=red, fontcolor=red]
+z[color=black, fontcolor=black]
+i[color=red, fontcolor=red]
+s[color=black, fontcolor=black]
+v[color=red, fontcolor=red]
+w[color=black, fontcolor=black]
+z[color=red, fontcolor=red]
+x[color=black, fontcolor=black]
+y[color=red, fontcolor=red]
+z[color=black, fontcolor=black]
+r[color=red, fontcolor=red]
+s[color=black, fontcolor=black]
+t[color=red, fontcolor=red]
+v[color=red, fontcolor=red]
+w[color=black, fontcolor=black]
+z[color=red, fontcolor=red]
+x[color=black, fontcolor=black]
+y[color=red, fontcolor=red]
+z[color=black, fontcolor=black]
+z -> w
+z -> x
+y -> z
+y -> z
+r -> y
+r -> y
+w -> v
+z -> w
+z -> x
+y -> z
+y -> z
+i -> r
+i -> r
+w -> v
+z -> w
+z -> x
+y -> z
+y -> z
+r -> y
+r -> y
+v -> s
+v -> w
+z -> v
+z -> x
+y -> z
+y -> z
+f -> i
+f -> i
+w -> v
+z -> w
+z -> x
+y -> z
+y -> z
+r -> y
+r -> y
+v -> s
+v -> w
+z -> v
+z -> x
+y -> z
+y -> z
+i -> r
+i -> r
+v -> s
+v -> w
+z -> v
+z -> x
+y -> z
+y -> z
+r -> y
+r -> y
+s -> t
+v -> s
+v -> w
+z -> v
+z -> x
+y -> z
+y -> z
+}

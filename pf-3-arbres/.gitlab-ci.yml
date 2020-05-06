@@ -1,0 +1,4 @@
+image: commonci-fil:latest
+
+build:
+  script: ghc -Wall -dynamic -fdefer-typed-holes arbres.hs

@@ -1,0 +1,32 @@
+digraph "test" {
+node [shape=circle]
+a[color=red, fontcolor=red]
+b[color=red, fontcolor=red]
+c[color=red, fontcolor=red]
+d[color=red, fontcolor=red]
+e[color=red, fontcolor=red]
+f[color=red, fontcolor=red]
+g[color=red, fontcolor=red]
+h[color=red, fontcolor=red]
+i[color=red, fontcolor=red]
+j[color=red, fontcolor=red]
+k[color=red, fontcolor=red]
+l[color=red, fontcolor=red]
+m[color=red, fontcolor=red]
+n[color=red, fontcolor=red]
+o[color=red, fontcolor=red]
+b -> a
+b -> c
+d -> b
+d -> f
+f -> e
+f -> g
+h -> d
+h -> l
+j -> i
+j -> k
+l -> j
+l -> n
+n -> m
+n -> o
+}
